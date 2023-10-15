@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=6C98F7&center=%E5%81%87&vCenter=%E5%81%87&repeat=%E7%9C%9F&random=%E5%81%87&width=435&lines=Hi+%E6%88%91%E6%98%AFXJ%E7%8E%8B%E5%A4%A7%E5%93%A5+%F0%9F%91%8B)](https://git.io/typing-svg)
+# Hi 我是XJ王大哥👋
 
 一名初中生，擅长Py、JS、HTML/CSS、图形化，追求简约。
 
