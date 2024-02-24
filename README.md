@@ -6,11 +6,13 @@
 一名初中生，追求简约。擅长：
 
 ![](https://img.shields.io/badge/Python-black?logo=python)
+![](https://img.shields.io/badge/Vue-black?logo=Vue.js)
 ![](https://img.shields.io/badge/React-black?logo=react)
 ![](https://img.shields.io/badge/JavaScript-black?logo=javascript)
 ![](https://img.shields.io/badge/TypeScript-black?logo=typescript)
 ![](https://img.shields.io/badge/HTML/CSS-black?logo=html5)
 ![](https://img.shields.io/badge/图形化-black?logo=scratch)
+
 
 ![](https://raw.githubusercontent.com/XJwangdage/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/XJwangdage/github-stats-transparent/output/generated/languages.svg)
